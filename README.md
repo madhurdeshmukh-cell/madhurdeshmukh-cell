@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
+## I'm Madhur Deshmukh
 
-<!--
-**madhurdeshmukh-cell/madhurdeshmukh-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Interested in Web Development & Programming  
+🌱 Currently learning Data Structures and JavaScript  
+🚀 Working on mini projects and improving coding skills  
+🤝 Open to collaboration on beginner-friendly projects  
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- GitHub: https://github.com/madhurdeshmukh-cell
+- LinkedIn: Your LinkedIn Link
+
+### ⚡ Fun Fact
+I love solving logical and coding problems!
