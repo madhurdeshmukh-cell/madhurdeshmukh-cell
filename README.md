@@ -1,6 +1,6 @@
 # Hi there 👋
 ## I'm Madhur Deshmukh
-vit vellore IT
+vit vellore IT.
 🎓 Computer Enginee Student ring 
 💻 Interested in Web Development & Programming  
 🌱 Currently learning Data Structures and JavaScript  
