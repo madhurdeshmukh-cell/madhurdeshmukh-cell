@@ -16,7 +16,7 @@ vit vellore IT.
 
 ### 📫 Connect with me
 - GitHub: https://github.com/madhurdeshmukh-cell
-- LinkedIn: Your LinkedIn Link
+- LinkedIn: www.linkedin.com/in/madhur-deshmukh-167182422
 
 ### ⚡ Fun Fact
 I love solving logical and coding problems!
